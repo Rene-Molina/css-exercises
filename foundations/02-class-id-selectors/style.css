@@ -3,6 +3,10 @@
   font-family: "Verdana", "DejaVu Sans", "Sans-serif";
 }
 
+.oddnumelem.coolerone {
+  font-size: 24px;
+}
+
 #secondelem {
   color: rgb(71, 71, 209);
   font-size: 36px;
