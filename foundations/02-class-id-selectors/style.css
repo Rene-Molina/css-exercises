@@ -1,0 +1,15 @@
+.oddnumelem {
+  background-color: rgb(247, 108, 149);
+  font-family: "Verdana", "DejaVu Sans", "Sans-serif";
+}
+
+#secondelem {
+  color: rgb(71, 71, 209);
+  font-size: 36px;
+}
+
+#numbrfour {
+  background-color: rgb(115, 214, 115);
+  font-size: 24px;
+  font-weight: bold;
+}
